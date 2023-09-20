@@ -1,1 +1,4 @@
 # Funnel_Analysis
+Metrocar operates on a platform that utilizes a mobile application to establish a connection between riders and drivers. Acting as an intermediary, Metrocar offers a convenient and easy-to-use platform, enabling seamless communication and streamlining the process of ride-hailing.
+The objective of this project was to examine the customer funnel of Metrocar, a ride-sharing application. The aim was to identify potential areas that could benefit from enhancement and optimization.
+The stakeholders have asked several business questions that can uncover valuable insights for improving specific areas of the customer funnel. Our task was to conduct a funnel analysis and presented the analysis and recommendation. Explain our reason for these recommendations based on insights retrieved from the data.
